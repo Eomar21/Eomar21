@@ -1,10 +1,12 @@
 ## Hi, I'm Ehab
 
 Software engineer in the Netherlands. I mostly write C# and TypeScript.
+This is my personal github account, so commits history here only reflects my personal or opensource work.
+My current github account I use for current professional work is this : https://github.com/ehabomarcoolblue which should reflect my commits history professionally. 
 
-### Project
+### Projects:
 
-Transcriber: https://github.com/Eomar21/transcriber
+- Transcriber: https://github.com/Eomar21/transcriber
 
 A desktop app that turns recordings into transcripts. It runs entirely on your own computer, so nothing gets uploaded. Built with .NET MAUI and a local Whisper model.
 
@@ -17,3 +19,5 @@ C#, .NET, ASP.NET Core, TypeScript, React, GraphQL, Kafka, MySQL, PostgreSQL, Do
 Other things I've built: https://sunwindow.app and https://historyoftheworld.app
 
 LinkedIn: https://www.linkedin.com/in/ehab-omar-706b1a20/
+
+
